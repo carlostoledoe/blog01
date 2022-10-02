@@ -1,2 +1,15 @@
+// Modificaciones de Bootstrap
+$container-max-widths: (
+  sm: 750px,
+  md: 950px,
+  lg: 1150px,
+  xl: 1300px,
+  xxl: 1320px
+);
+
+$nav-link-color: #000;
+$nav-link-hover-color: green;
+
+
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-icons/font/bootstrap-icons';
