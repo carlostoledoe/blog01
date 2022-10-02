@@ -1,13 +1,16 @@
-
 $nav-link-color: rgb(252, 255, 236);
 $nav-link-hover-color: black;
 $navbar-light-disabled-color: black;
-$navbar-padding-y: 1.5%;
+$navbar-padding-y: 1.5%;  
+$link-color: rgb(252, 255, 236);
+$navbar-light-toggler-icon-bg: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#fff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+$navbar-light-toggler-border-color: rgb(252, 255, 236);
 
 
 @import 'bootstrap/scss/bootstrap';
 @import 'bootstrap-icons/font/bootstrap-icons';
 
 body {
-  background-color: #444422;
+  background-color: #303018;
+  color:rgb(252, 255, 236);
 }
