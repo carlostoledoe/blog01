@@ -14,8 +14,11 @@
   <body>
     <%= render "layouts/navbar" %>
     <div class="container">
-    <%= yield %>
-    <%= render "layouts/footer" %>
+      <%= yield %>
     </div>
+      <footer>
+        <%= render "layouts/footer" %>
+      </footer>
+  <script src="https://unpkg.com/scrollreveal"></script>
   </body>
 </html>
