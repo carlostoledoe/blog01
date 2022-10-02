@@ -75,3 +75,5 @@ group :test do
 end
 
 gem 'dotenv-rails', groups: [:development, :test]
+
+gem "font-awesome-sass", "~> 6.2.0"
