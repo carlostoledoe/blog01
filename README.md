@@ -1,6 +1,11 @@
 # README
 
-Test blog, designed in Rails + Postgres + Heroku. Blog about tree stories. 
+Example basic blog in Ruby on Rails:
 
-See me deployed on:
-https://app-blog01.herokuapp.com/
+- Icons with gem "font-awesome-sass"
+- Postgres
+- Bootstrap
+- Update the colors of Bootstrap theme
+- Image with effect JS ScrollReveal
+- Responsive
+- CRUD
